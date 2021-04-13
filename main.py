@@ -186,6 +186,7 @@ def update():
 root = Tk()
 root.title("myContactsKeeper")
 root.config(background='#808080')
+root.geometry('650x460')
 #root.iconbitmap('phonebook.ico')
 
 #Label Widgets
